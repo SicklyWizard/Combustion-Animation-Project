@@ -1,0 +1,1 @@
+The majority of the SFX found in this library is CC0 audio and is free to use. However, some sounds are Attribution 4 licences or sound that probably should be replaced for something else. These audio files will be designated with (Non CC0) in their title.
